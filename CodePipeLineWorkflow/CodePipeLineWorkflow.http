@@ -1,0 +1,6 @@
+@CodePipeLineWorkflow_HostAddress = http://localhost:5078
+
+GET {{CodePipeLineWorkflow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
